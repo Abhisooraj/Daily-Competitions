@@ -67,14 +67,21 @@ Write a program that implements Newton's method. The program should prompt the u
 <li>Day_5</li>
 Many companies pay time-and-a-half for any hours worked above 40 in a given week. Write a program to input the number of hours worked and the hourly rate and calculate the total wages for the week.
 <br/>
-<li><a href="https://github.com/Abhisooraj/Daily_Coding/tree/master/Python/Day%205" class="button"> Click here to see Code</a>
+<a href="https://github.com/Abhisooraj/Daily_Coding/tree/master/Python/Day%205" class="button"> Click here to see Code</a>
 
 
 <h3> Problem 09: </h3> 
 <li>Day_6</li>
 Write a program that uses a while loop to determine how long it takes for an investment to double at a given interest rate. The input will be an annualized interest rate, and the output is the number of years it takes an investment to double. Note: The amount of the initial investment does not matter; you can use $1.
 <br/>
-<a href="https://github.com/Abhisooraj/Daily_Coding/blob/master/Python/Day%206/Day%206.ipynb" class="button"> Click here to see Code</a>
+<a href="https://github.com/Abhisooraj/Daily_Coding/tree/master/Python/Day%206" class="button"> Click here to see Code</a>
+
+
+<h3> Problem 10: </h3> 
+<li>Day_7</li>
+Write a program that computes the fuel efficiency of a multi-leg journey. The program will first prompt for the starting odometer reading and then get information about a series of legs. For each leg, the user enters the current odometer reading and the amount of gas used (separated by a space). The user signals the end of the trip with a blank line. The program should print out the miles per gallon achieved on each leg and the total MPG for the trip
+<br/>
+<a href="https://github.com/Abhisooraj/Daily_Coding/tree/master/Python/Day%207" class="button"> Click here to see Code</a>
 
 
 
