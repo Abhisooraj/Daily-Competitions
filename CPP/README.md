@@ -19,3 +19,8 @@ Define a function hypotenuse that calculates the hypotenuse of a right triangle 
 Write a program that prompts for the person’s information, instantiates an object of class HeartRates and prints the information from that object—including the person’s
 first name, last name and date of birth—then calculates and prints the person’s age in (years), maximum heart rate and target-heart-rate range.<br/>
 <a href="https://github.com/Abhisooraj/Daily_Coding/tree/master/CPP/Heartrates">Click here to see the code</a>
+
+<h3> Problem 04: </h3> 
+A C++ program to round a number to a specific decimal place. (Rounding Numbers) Function floor can be used to round a number to a specific decimal
+place. 
+<a href="">Click here to see the code</a>
